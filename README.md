@@ -17,3 +17,8 @@ Phase 1 :
  Phase 2 : 
  
  TBD
+
+
+Another Avenue : 
+
+Use Google Cloud Scripts - listen to webhooks mails, save attachments to drive with required names, save as pdfs, parse PDFs, save parsed data to database(where are we hosting the database, how are we saving the data)?
