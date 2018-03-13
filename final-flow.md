@@ -1,3 +1,4 @@
+ - Node server in Google COmpute Engine to read the mails and send message to PubSub bus.
  - pubsub event to read messages
  - pubsub stores attachment to drive
  - pubsub triggers an event to firebase function
